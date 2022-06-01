@@ -12,6 +12,7 @@
 - Larissa Beatriz Dieckow Massirer
 - Leonardo Rodrigues Vaz    
 - Raniele Nascimento da Silva
+- Vinícius Martins Boaventura
 
 
 _**Index**_  
