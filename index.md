@@ -8,7 +8,8 @@
 - [Prof. Wanderlei Malaquias Pereira Junior](http://lattes.cnpq.br/2268506213083114)      
 - Adriano Ferreira da Silva
 - Arnando Teixeira Silva Filho     
-- Larissa Beatriz Dieckow Massirer    
+- Larissa Beatriz Dieckow Massirer
+- Leonardo Rodrigues Vaz    
 - Raniele Nascimento da Silva
 
 
