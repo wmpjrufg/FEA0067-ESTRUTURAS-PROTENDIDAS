@@ -17,7 +17,7 @@
 _**Index**_  
 1.0 - Introdução as peças protendidas  
 1.1 - [Conceitos da NBR 6118](https://wmpjrufg.github.io/FEA0067-ESTRUTURAS-PROTENDIDAS/CAP1-1.html)  
-1,2 - [Conceitos da NBR 6118](https://wmpjrufg.github.io/FEA0067-ESTRUTURAS-PROTENDIDAS/CAP1-2.html)     
-1,3 - [Conceitos da NBR 6118](https://wmpjrufg.github.io/FEA0067-ESTRUTURAS-PROTENDIDAS/CAP1-3.html)  
-1,4 - [Conceitos da NBR 6118](https://wmpjrufg.github.io/FEA0067-ESTRUTURAS-PROTENDIDAS/CAP1-4.html)  
-2,0 - Introdução as peças protendidas   
+1.2 - [Conceitos da NBR 6118](https://wmpjrufg.github.io/FEA0067-ESTRUTURAS-PROTENDIDAS/CAP1-2.html)     
+1.3 - [Conceitos da NBR 6118](https://wmpjrufg.github.io/FEA0067-ESTRUTURAS-PROTENDIDAS/CAP1-3.html)  
+1.4 - [Conceitos da NBR 6118](https://wmpjrufg.github.io/FEA0067-ESTRUTURAS-PROTENDIDAS/CAP1-4.html)  
+2.0 - Introdução as peças protendidas   
