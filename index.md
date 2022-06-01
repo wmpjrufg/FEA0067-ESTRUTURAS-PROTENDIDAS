@@ -4,10 +4,10 @@
 
 <h1>Developers</h1>
 
-<h3><i>Autores</i></h3>  
-- [Prof. Wanderlei Malaquias Pereira Junior](http://lattes.cnpq.br/2268506213083114)    
-- Arnando Teixeira Silva Filho   
-- Larissa Beatriz Dieckow Massirer  
+<h3><i>Autores</i></h3>    
+- [Prof. Wanderlei Malaquias Pereira Junior](http://lattes.cnpq.br/2268506213083114)      
+- Arnando Teixeira Silva Filho     
+- Larissa Beatriz Dieckow Massirer    
 
 
 _**Index**_  
