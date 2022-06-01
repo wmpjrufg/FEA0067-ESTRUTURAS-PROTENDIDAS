@@ -8,6 +8,7 @@
 - [Prof. Wanderlei Malaquias Pereira Junior](http://lattes.cnpq.br/2268506213083114)      
 - Arnando Teixeira Silva Filho     
 - Larissa Beatriz Dieckow Massirer    
+- Vinícius Martins Boaventura"  
 
 
 _**Index**_  
