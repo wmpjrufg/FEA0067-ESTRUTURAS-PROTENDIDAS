@@ -5,15 +5,15 @@
 <h1>Developers</h1>
 
 <h3><i>Autores</i></h3>  
-- [Prof. Wanderlei Malaquias Pereira Junior](http://lattes.cnpq.br/2268506213083114)  
+- [Prof. Wanderlei Malaquias Pereira Junior](http://lattes.cnpq.br/2268506213083114)    
 - Arnando Teixeira Silva Filho   
-- Larissa Beatriz Dieckow Massirer
+- Larissa Beatriz Dieckow Massirer  
 
 
 _**Index**_  
 1.0 - Introdução as peças protendidas  
-1.1 - [Conceitos da NBR 6118](https://wmpjrufg.github.io/FEA0067-ESTRUTURAS-PROTENDIDAS)  
-2.0 - [How to install](https://wmpjrufg.github.io/META_TOOLBOX/CAP_1-1.html)     
-2.1 - [How to install](https://wmpjrufg.github.io/META_TOOLBOX/CAP_1-1.html)   
-3.0 - [How to install](https://wmpjrufg.github.io/META_TOOLBOX/CAP_1-1.html)  
-3.1 - [Simulated Annealing](https://wmpjrufg.github.io/META_TOOLBOX/CAP_3-1.html)   
+1.1 - [Conceitos da NBR 6118](https://wmpjrufg.github.io/FEA0067-ESTRUTURAS-PROTENDIDAS/CAP1-1.html)  
+1,2 - [Conceitos da NBR 6118](https://wmpjrufg.github.io/FEA0067-ESTRUTURAS-PROTENDIDAS/CAP1-2.html)     
+1,3 - [Conceitos da NBR 6118](https://wmpjrufg.github.io/FEA0067-ESTRUTURAS-PROTENDIDAS/CAP1-3.html)  
+1,4 - [Conceitos da NBR 6118](https://wmpjrufg.github.io/FEA0067-ESTRUTURAS-PROTENDIDAS/CAP1-4.html)  
+2,0 - Introdução as peças protendidas   
