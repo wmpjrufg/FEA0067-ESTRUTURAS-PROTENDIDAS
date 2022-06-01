@@ -6,6 +6,7 @@
 
 <h3><i>Autores</i></h3>    
 - [Prof. Wanderlei Malaquias Pereira Junior](http://lattes.cnpq.br/2268506213083114)      
+- Adriano Ferreira da Silva
 - Arnando Teixeira Silva Filho     
 - Larissa Beatriz Dieckow Massirer    
 - Vinícius Martins Boaventura"  
