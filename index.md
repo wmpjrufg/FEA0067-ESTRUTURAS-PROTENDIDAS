@@ -2,21 +2,23 @@
 
 <p align="justify">Este material é um repositório educacional aberto criado pelos discentes da discipliande Estruturas protendidas da Universidade Federal de Catalão (UFCAT).</p>
 
-<h1>Developers</h1>
+<h1>Desenvolvedores</h1>
 
-<h3><i>Autores</i></h3>    
-- [Prof. Wanderlei Malaquias Pereira Junior](http://lattes.cnpq.br/2268506213083114)      
-- Adriano Ferreira da Silva
-- Arnando Teixeira Silva Filho
-- Carlos Magno Silva Carneiro
-- Jordana Santos Monteiro     
-- Larissa Beatriz Dieckow Massirer
-- Leonardo Rodrigues Vaz    
-- Raniele Nascimento da Silva
-- Vinícius Martins Boaventura
+<h3><i>Professor</i></h3>    
+- [Prof. Wanderlei Malaquias Pereira Junior](http://lattes.cnpq.br/2268506213083114)    
+
+<h3><i>Turma 01</i></h3>  
+- Adriano Ferreira da Silva  
+- Arnando Teixeira Silva Filho  
+- Carlos Magno Silva Carneiro  
+- Jordana Santos Monteiro       
+- Larissa Beatriz Dieckow Massirer    
+- Leonardo Rodrigues Vaz      
+- Raniele Nascimento da Silva    
+- Vinícius Martins Boaventura  
 
 
-_**Index**_  
+_**Índice**_  
 1.0 - Introdução as peças protendidas  
 1.1 - [Conceitos da NBR 6118](https://wmpjrufg.github.io/FEA0067-ESTRUTURAS-PROTENDIDAS/CAP1-1.html)  
 1.2 - [Conceitos da NBR 6118](https://wmpjrufg.github.io/FEA0067-ESTRUTURAS-PROTENDIDAS/CAP1-2.html)     
