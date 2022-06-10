@@ -20,3 +20,12 @@
   Vestibulum ac leo vitae metus faucibus gravida ac in neque.
   Nullam est eros, suscipit sed dictum quis, accumsan a ligula.
 </p>
+
+<! -- Itálico e negrito no meio do texto -->
+
+<p align="justify">
+  Integer elementum massa at nulla placerat varius.
+  Suspendisse in <i>libero risus</i>, in interdum massa.
+  Vestibulum ac leo <b>vitae metus faucibus</b> gravida ac in neque.
+  Nullam est eros, suscipit sed dictum quis, accumsan a ligula.
+</p>
