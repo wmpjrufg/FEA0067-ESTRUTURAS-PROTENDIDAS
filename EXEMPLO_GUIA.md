@@ -117,7 +117,7 @@
 <h1>Link de site em página nova</h1>
 
 
-<a href="http://www.w3schools.com/"target="_blank">Visite as W3Schools!</a>
+<p align="justify"><a href="http://www.w3schools.com/"target="_blank">Visite as W3Schools!</a></p>
 
 <h2>Link de site em página nova no meio de um texto</h2>
 
