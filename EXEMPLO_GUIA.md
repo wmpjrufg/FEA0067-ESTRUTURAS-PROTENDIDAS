@@ -1,8 +1,14 @@
-<script type=""text/javascript""
-  src=""http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"">
-</script>
+<! -- Cabeçalho padrão -->
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+<! -- Fim Cabeçalho padrão -->
 
-<h2>The Lorenz Equations</h2>
+<! -- Codificação para títulos e digitação de equações -->
+
+<h1>Title 1</h1>
+<h2>Title 2</h2>
+<h3>Title 3</h3>
+<h4>Title 4</h4>
 
 <p>
 \begin{align}
