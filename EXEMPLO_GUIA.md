@@ -50,6 +50,10 @@
 \end{Vmatrix}
 </p>
 
+<p>link de um site com várias modelos de equação <a href="https://app.mettzer.com/latex"target="_blank">link</a></p>
+ 
+ 
+
 <h1>Modelo de listas</h1>
 
 <ol>
