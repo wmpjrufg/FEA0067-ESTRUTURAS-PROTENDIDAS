@@ -18,6 +18,46 @@
 \end{align}
 </p>
 
+<! -- Modelo de listas -->
+
+<ol>
+<li>Nome</li>
+<li>Telefone</li>
+<li>Endereço</li>
+<li>País</li>
+</ol>
+
+<ol type="a">
+<li>Nome</li>
+<li>Telefone</li>
+<li>Endereço</li>
+<li>País</li>
+</ol>
+
+<ol type="I">
+<li>Nome</li>
+<li>Telefone</li>
+<li>Casa</li>
+<li>Estado</li>
+</ol>
+
+<ul>
+<li>Nome</li>
+<li>Telefone</li>
+<li>Casa</li>
+<li>Estado</li>
+</ul>
+
+<dl>
+<dt>Html</dt>
+<dd> Html Basico</dd>
+<dd> Html Avançado</dd>
+<dt> PHP</dt>
+<dd> PHP Básico</dd>
+<dd> PHP Intermediário</dd>
+<dd> PHP Avançado</dd>
+</dl>
+
 <! -- Codificação para paragrafos -->
 
 <p align="justify">
