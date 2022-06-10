@@ -3,15 +3,16 @@
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>  
 /* Fim Cabeçalho padrão */
 
-<! -- Codificação para títulos e digitação de equações -->
+/* Codificação para títulos */
 
 <h1>Title 1</h1>
 <h2>Title 2</h2>
 <h3>Title 3</h3>
 <h4>Title 4</h4>
 
+/* Codificação para equações */
 <p>
-\begin{align}
+\begin{align} \label{eq1}
 \dot{x} &amp; = \sigma(y-x) \\
 \dot{y} &amp; = \rho x - y - xz \\
 \dot{z} &amp; = -\beta z + xy
