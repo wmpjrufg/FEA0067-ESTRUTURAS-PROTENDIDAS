@@ -20,8 +20,10 @@
 
 _**Índice**_  
 1.0 - Introdução as peças protendidas  
-1.1 - [Conceitos da NBR 6118](https://wmpjrufg.github.io/FEA0067-ESTRUTURAS-PROTENDIDAS/CAP1-1.html)  
-1.2 - [Conceitos da NBR 6118](https://wmpjrufg.github.io/FEA0067-ESTRUTURAS-PROTENDIDAS/CAP1-2.html)     
-1.3 - [Conceitos da NBR 6118](https://wmpjrufg.github.io/FEA0067-ESTRUTURAS-PROTENDIDAS/CAP1-3.html)  
-1.4 - [Conceitos da NBR 6118](https://wmpjrufg.github.io/FEA0067-ESTRUTURAS-PROTENDIDAS/CAP1-4.html)  
+1.1 - [O que é concreto protendido?](https://wmpjrufg.github.io/FEA0067-ESTRUTURAS-PROTENDIDAS/CAP1-1.html)  
+1.2 - [Histórico do concreto protendido](https://wmpjrufg.github.io/FEA0067-ESTRUTURAS-PROTENDIDAS/CAP1-2.html)  
+1.3 - [Exemplo de aplicação da protensão](https://wmpjrufg.github.io/FEA0067-ESTRUTURAS-PROTENDIDAS/CAP1-3.html)     
+1.4 - [Protensão quanto ao tipo de aderência](https://wmpjrufg.github.io/FEA0067-ESTRUTURAS-PROTENDIDAS/CAP1-4.html)  
+1.5 - [Protensão quanto ao grau de protensão](https://wmpjrufg.github.io/FEA0067-ESTRUTURAS-PROTENDIDAS/CAP1-5.html)  
+1.6 - [Comparação concreto armado com protendido](https://wmpjrufg.github.io/FEA0067-ESTRUTURAS-PROTENDIDAS/CAP1-6.html)  
 2.0 - Introdução as peças protendidas   
