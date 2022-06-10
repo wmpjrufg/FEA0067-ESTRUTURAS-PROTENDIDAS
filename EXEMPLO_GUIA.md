@@ -1,16 +1,16 @@
-/* Cabeçalho padrão */  
+<h1>Cabeçalho padrão nunca eliminar</h1>
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>  
-/* Fim Cabeçalho padrão */
 
-/* Codificação para títulos */
+<h1>Codificação para títulos</h1>
 
 <h1>Title 1</h1>
 <h2>Title 2</h2>
 <h3>Title 3</h3>
 <h4>Title 4</h4>
 
-/* Codificação para equações */
+<h1>Codificação para equações</h1>
+
 <p>
 \dot{x} &amp; = \sigma(y-x) \\
 \dot{y} &amp; = \rho x - y - xz \\
@@ -51,8 +51,7 @@
 \end{Vmatrix}
 </p>
 
-
-<! -- Modelo de listas -->
+<h1>Modelo de listas</h1>
 
 <ol>
 <li>Nome</li>
@@ -92,7 +91,7 @@
 <dd> PHP Avançado</dd>
 </dl>
 
-<! -- Codificação para paragrafos -->
+<h1>Codificação para paragrafos</h1>
 
 <p align="justify">
   Integer elementum massa at nulla placerat varius.
@@ -101,11 +100,25 @@
   Nullam est eros, suscipit sed dictum quis, accumsan a ligula.
 </p>
 
-<! -- Itálico e negrito no meio do texto -->
+<h2>Codificação para paragrafos estilizados com itálico e negrito</h2>
 
 <p align="justify">
   Integer elementum massa at nulla placerat varius.
   Suspendisse in <i>libero risus</i>, in interdum massa.
   Vestibulum ac leo <b>vitae metus faucibus</b> gravida ac in neque.
   Nullam est eros, suscipit sed dictum quis, accumsan a ligula.
+</p>
+
+<h1>Link de site em página nova</h1>
+
+
+<a href="http://www.w3schools.com/"target="_blank">Visite as W3Schools!</a>
+
+<h2>Link de site em página nova no meio de um texto</h2>
+
+<p align="justify">
+  Integer elementum massa at nulla placerat varius.
+  Suspendisse in <i>libero risus</i>, in interdum massa.
+  Vestibulum ac leo <b>vitae metus faucibus</b> gravida ac in neque.
+  Nullam est eros, suscipit <a href="http://www.w3schools.com/"target="_blank">sed</a> dictum quis, accumsan a ligula.
 </p>
