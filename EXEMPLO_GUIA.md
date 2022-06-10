@@ -12,12 +12,45 @@
 
 /* Codificação para equações */
 <p>
-\begin{align} \label{eq1}
 \dot{x} &amp; = \sigma(y-x) \\
 \dot{y} &amp; = \rho x - y - xz \\
 \dot{z} &amp; = -\beta z + xy
 \end{align}
 </p>
+
+<p>
+\begin{matrix}
+ 1 & 2 & 3 \\
+ 2 & 3 & 4 \\
+ 3 & 4 & 5  
+\end{matrix},
+\begin{pmatrix}
+ 1 & 2 & 3 \\
+ 2 & 3 & 4 \\
+ 3 & 4 & 5  
+\end{pmatrix}, 
+\begin{bmatrix}
+ 1 & 2 & 3 \\
+ 2 & 3 & 4 \\
+ 3 & 4 & 5  
+\end{bmatrix}, 
+\begin{Bmatrix}
+ 1 & 2 & 3 \\
+ 2 & 3 & 4 \\
+ 3 & 4 & 5  
+\end{Bmatrix}, 
+\begin{vmatrix}
+ 1 & 2 & 3 \\
+ 2 & 3 & 4 \\
+ 3 & 4 & 5  
+\end{vmatrix},
+\begin{Vmatrix}
+ 1 & 2 & 3 \\
+ 2 & 3 & 4 \\
+ 3 & 4 & 5  
+\end{Vmatrix}
+</p>
+
 
 <! -- Modelo de listas -->
 
