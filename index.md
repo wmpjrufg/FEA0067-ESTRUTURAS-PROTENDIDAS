@@ -12,7 +12,8 @@
 - Arnando Teixeira Silva Filho   
 - Carlos Magno Silva Carneiro   
 - Jordana Santos Monteiro        
-- Larissa Beatriz Dieckow Massirer     
+- Larissa Beatriz Dieckow Massirer 
+- Lucas Eduardo Cândido Pimenta    
 - Leonardo Rodrigues Vaz       
 - Raniele Nascimento da Silva     
 - Vinícius Martins Boaventura   
