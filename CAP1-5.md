@@ -10,7 +10,7 @@
 <h3>Title 3</h3>
 <h4>Title 4</h4>
 
-<h1>Codificação para equações</h1>
+<h1>Lucas</h1>
 
 <p>
 \begin{align}
