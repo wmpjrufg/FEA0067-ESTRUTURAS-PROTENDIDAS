@@ -5,10 +5,10 @@
 
 <h1>Comparação do Concreto Armado e Protendido</h1>
 
-<h1>Title 1</h1>
-<h2>Title 2</h2>
-<h3>Title 3</h3>
-<h4>Title 4</h4>
+
+
+<h3>Vantagens</h3>
+<h2>Redução das tensões de tração provacos pela flexão e pelos esforços cortantes</h2>
 
 <h1>Lucas</h1>
 
