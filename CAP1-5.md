@@ -147,8 +147,8 @@ Tabela 2 – Exigências de durabilidade relacionadas à fissuração e à prote
 Fonte: Adapto NBR 6118, 2014.
 
 Protensão Completa (CP nível 3) devem ser atendidas no caso de elementos com armadura pré-tracionada em ambientes de classe de agressividade ambiental (CAA) III e IV. Deve-se garantir duas condições: 
-1º Em combinações frequentes de ações, previstas em projeto, deve-se ser respeitado o estado limite de descompressão (ELS-D), podendo ser substituído pelo ELS-DP com armadura passiva (ap) igual a 25 mm, ficando a critério do projetista. 
-2º Em combinações raras de ações, também já previstas em projeto, deve-se ser respeitado o estado limite de formação de fissuras (ELS-F).
+<li>Em combinações frequentes de ações, previstas em projeto, deve-se ser respeitado o estado limite de descompressão (ELS-D), podendo ser substituído pelo ELS-DP com armadura passiva (ap) igual a 25 mm, ficando a critério do projetista.</li>
+<li>2º Em combinações raras de ações, também já previstas em projeto, deve-se ser respeitado o estado limite de formação de fissuras (ELS-F).</li>
 Protensão Limitada (CP nível 2) de forma análogo a protensão completa deve-se ser atendido em situações com elementos com armadura pré-tracionada em ambientes de CAA II ou com armaduras pós-tracionada em ambientes de CAA III e IV. Deve-se garantir duas condições sendo elas: 
 1º Em combinações quase-permanentes de ações, previstas em projeto, é respeitado o estado limite de descompressão (ELS-D), podendo ser substituído pelo ELS-DP com ap=25mm, ficando a critério do projetista. 
 2º Em combinações frequentes de ações, também já previstas em projeto, é respeitado o estado limite de formação de fissuras (ELS-F).
