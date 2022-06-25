@@ -1,6 +1,48 @@
-<h1>Protensão quanto ao grau de protensão</h1>
+<h1>Cabeçalho padrão nunca eliminar</h1>
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>  
+
+<h1>1.5 - Protensão quanto ao grau de protensão</h1>
+
+O grau de protensão ou também chamadas de nível de protensão de acordo com as normas brasileiras, são os critérios de projeto empregados afim de determinar os efeitos que serão introduzidos pela protensão em um certo tipo de estrutura, com finalidade de alcançar e garantir que a peça atinja os requisitos e atenta a durabilidade quanto a fissuração e proteção da armadura.  
+A NBR 6118 define o concreto protendido em três níveis de protensão, sendo eles protensão completa, limitada e parcial. Os mesmos são definidos de acordo com a classe de agressividade ambiental assumida para a estrutura, com consonância as exigências relativas à fissuração e a combinações de ações de serviço. As tabelas 1 e 2, foram retiradas da norma e apresentam de forma resumida as exigências de durabilidade relacionadas à fissuração e à proteção da armadura em função das classes de agressividade ambiental.  
+
+<table>
+  <tr>
+    <th>Classe de agressividade ambiental (CAA)</th>
+    <th>Agressividade</th>
+    <th>Classificação geral do tipo de ambiente para efeito de projeto</th>
+    <th>Risco de deterioração da estrutura</th>
+  </tr>
+  <tr>
+    <td>I</td>
+    <td>Fraca</td>
+    <td>Rural<td>
+    <td>Submersa</td>
+    <td>Insignificante</td>
+  </tr>
+  <tr>
+    <td>II</td>
+    <td>Moderada</td>
+    <td>Urbana<sup>1,2</sup></td>
+    <td>Pequeno</td>
+  </tr>
+</table>
+
+
+			
+			
+			
+III	Forte	Marinha 1	Grande
+		Industrial 1,2	
+IV	Muito forte	Industrial 1,3	Elevado
+		Respingos de maré	
+1. Pode-se admitir um microclima com uma classe de agressividade mais branda (um nível acima) para ambientes internos seco (sala, dormitórios, banheiros, cozinhas e áreas de serviço de apartamentos residenciais e conjuntos residenciais e conjuntos comerciais ou ambientes com concreto revestido com argamassa e pintura). 
+2. Pode-se admitir uma classe de agressividade mais branda (um nível acima) em: obras em regiões de clima seco, com umidade relativa do ar menor ou igual a 65%, partes da estrutura protegidas de chuva em ambientes predominantemente secos, ou regiões onde chove raramente. 
+3. Ambientes quimicamente agressivos, tanques industriais, galvanoplastia, branqueamento em indústrias de celulose e papel, armazéns de fertilizantes, indústrias químicas. 
+
+
+
 
 <h1>Codificação para títulos</h1>
 
