@@ -7,27 +7,26 @@
 O grau de protensão ou também chamadas de nível de protensão de acordo com as normas brasileiras, são os critérios de projeto empregados afim de determinar os efeitos que serão introduzidos pela protensão em um certo tipo de estrutura, com finalidade de alcançar e garantir que a peça atinja os requisitos e atenta a durabilidade quanto a fissuração e proteção da armadura.  
 A NBR 6118 define o concreto protendido em três níveis de protensão, sendo eles protensão completa, limitada e parcial. Os mesmos são definidos de acordo com a classe de agressividade ambiental assumida para a estrutura, com consonância as exigências relativas à fissuração e a combinações de ações de serviço. As tabelas 1 e 2, foram retiradas da norma e apresentam de forma resumida as exigências de durabilidade relacionadas à fissuração e à proteção da armadura em função das classes de agressividade ambiental.  
 
-<table>
-	
-  	<tr>
-   		<th>Classe de agressividade ambiental (CAA)</th>
-		<th>Agressividade</th>
-    		<th>Classificação geral do tipo de ambiente para efeito de projeto</th>
-    		<th>Risco de deterioração da estrutura</th>
-  	</tr>
-  	<tr>
-    		<td rowspan"2">I</td>
-    		<td rowspan"2">Fraca</td>
-    		<td>Rural</td>
-    		<td>Submersa</td>
-    		<td rowspan"2">Insignificante</td>
-  	</tr>
-	<tr>
-    		<td>II</td>
-    		<td>Moderada</td>
-    		<td>Urbana<sup>1,2</sup></td>
-    		<td>Pequeno</td>
-  		</tr>
+<table>  
+  	<tr>  
+   	 <th>Classe de agressividade ambiental (CAA)</th>  
+	 <th>Agressividade</th>  
+    	 <th>Classificação geral do tipo de ambiente para efeito de projeto</th>  
+    	 <th>Risco de deterioração da estrutura</th>  
+  	</tr>  
+  	<tr>  
+    	 <td rowspan"2">I</td>  
+    	 <td rowspan"2">Fraca</td>  
+    	 <td>Rural</td>  
+    	 <td>Submersa</td>  
+    	 <td rowspan"2">Insignificante</td>  
+  	</tr>  
+	<tr>  
+    	 <td>II</td>  
+    	 <td>Moderada</td>  
+    	 <td>Urbana<sup>1,2</sup></td>  
+    	 <td>Pequeno</td>  
+  	</tr>  
 </table>
 
 
