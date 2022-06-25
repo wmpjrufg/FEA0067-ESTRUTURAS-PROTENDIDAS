@@ -48,13 +48,9 @@ A NBR 6118 define o concreto protendido em três níveis de protensão, sendo el
     	 <td>Respingos de maré</td> 
   	</tr> 
 	<tr>  
-    	 <td colspan="4">1. Pode-se admitir um microclima com uma classe de agressividade mais branda (um nível acima) para ambientes internos seco (sala, dormitórios, banheiros, cozinhas e áreas de serviço de apartamentos residenciais e conjuntos residenciais e conjuntos comerciais ou ambientes com concreto revestido com argamassa e pintura). </td> 
-  	</tr> 
-	<tr>  
-    	 <td colspan="4">2. Pode-se admitir uma classe de agressividade mais branda (um nível acima) em: obras em regiões de clima seco, com umidade relativa do ar menor ou igual a 65%, partes da estrutura protegidas de chuva em ambientes predominantemente secos, ou regiões onde chove raramente.</td> 
-  	</tr>
-	<tr>  
-    	 <td colspan="4">3. Ambientes quimicamente agressivos, tanques industriais, galvanoplastia, branqueamento em indústrias de celulose e papel, armazéns de fertilizantes, indústrias químicas.</td> 
+    	 <td colspan="4"><sup>1.</sup>Pode-se admitir um microclima com uma classe de agressividade mais branda (um nível acima) para ambientes internos seco (sala, dormitórios, banheiros, cozinhas e áreas de serviço de apartamentos residenciais e conjuntos residenciais e conjuntos comerciais ou ambientes com concreto revestido com argamassa e pintura). </td>   
+    	 <td colspan="4"><sup>2.</sup>Pode-se admitir uma classe de agressividade mais branda (um nível acima) em: obras em regiões de clima seco, com umidade relativa do ar menor ou igual a 65%, partes da estrutura protegidas de chuva em ambientes predominantemente secos, ou regiões onde chove raramente.</td> 
+    	 <td colspan="4"><sup>3.</sup>Ambientes quimicamente agressivos, tanques industriais, galvanoplastia, branqueamento em indústrias de celulose e papel, armazéns de fertilizantes, indústrias químicas.</td> 
   	</tr>
 </table>
 
