@@ -9,28 +9,20 @@ A NBR 6118 define o concreto protendido em três níveis de protensão, sendo el
 
 <table>
 	
-	<!--título da tabela-->
-	
   	<tr>
    		<th>Classe de agressividade ambiental (CAA)</th>
 		<th>Agressividade</th>
     		<th>Classificação geral do tipo de ambiente para efeito de projeto</th>
     		<th>Risco de deterioração da estrutura</th>
   	</tr>
-	
-	<!--linha 1-->
-	
   	<tr>
-    		<tdrowspan"2">I</td>
-    		<tdrowspan"2">Fraca</td>
+    		<td rowspan"2">I</td>
+    		<td rowspan"2">Fraca</td>
     		<td>Rural</td>
     		<td>Submersa</td>
-    		<tdrowspan"2">Insignificante</td>
+    		<td rowspan"2">Insignificante</td>
   	</tr>
-	
-	<!--linha 2-->
-	
-  	<tr>
+	<tr>
     		<td>II</td>
     		<td>Moderada</td>
     		<td>Urbana<sup>1,2</sup></td>
