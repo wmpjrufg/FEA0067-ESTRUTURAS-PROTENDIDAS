@@ -12,7 +12,9 @@ O grau de protensão ou também chamadas de nível de protensão de acordo com a
 A NBR 6118 define o concreto protendido em três níveis de protensão, sendo eles protensão completa, limitada e parcial. Os mesmos são definidos de acordo com a classe de agressividade ambiental assumida para a estrutura, com consonância as exigências relativas à fissuração e a combinações de ações de serviço. As tabelas 1 e 2, foram retiradas da norma e apresentam de forma resumida as exigências de durabilidade relacionadas à fissuração e à proteção da armadura em função das classes de agressividade ambiental.  
 
 
+<p align="center">  
 Tabela 1 – Classes de agressividade ambiental (Tabela 6.1 da NBR 6118)
+</p>  
 
 <table>  
   	<tr>  
@@ -65,9 +67,13 @@ Tabela 1 – Classes de agressividade ambiental (Tabela 6.1 da NBR 6118)
 	</tfoot>  
 </table>  
 
+<p align="center">  
 Fonte: Adapto NBR 6118, 2014.
+</p>  
 
+<p align="center">
 Tabela 2 – Exigências de durabilidade relacionadas à fissuração e à proteção da armadura, em função das classes de agressividade ambiente (Tabela 13.3 da NBR 6118).
+</p>  
 
 <table>  
   	<tr>  
@@ -128,7 +134,6 @@ Tabela 2 – Exigências de durabilidade relacionadas à fissuração e à prote
     	 <td>ELS-D<sup>1</sup></td>
 	 <td>Combinação frequente</td>
   	</tr> 
-	
         <tfoot>
 	<tr>  
     	 <td colspan="4"><sup>1.</sup>A critério do projetista, o ELS-D pode ser substituído pelo ELS-DP com ap = 25mm (figura 3.1 da NBR 6118).</td>  
@@ -140,23 +145,40 @@ Tabela 2 – Exigências de durabilidade relacionadas à fissuração e à prote
 	</tr>  
     	 <td colspan="4">2. Para as classes de agressividade ambiental CAA-III e IV exige-se que as cordoalhas não aderentes tenham proteção especial na região de suas ancoragens.</td>  
   	</tr>  
-	
 	</tfoot>  
 </table>  
 
+<p align="center">
 Fonte: Adapto NBR 6118, 2014.
+</p>
 
-Protensão Completa (CP nível 3) devem ser atendidas no caso de elementos com armadura pré-tracionada em ambientes de classe de agressividade ambiental (CAA) III e IV. Deve-se garantir duas condições: 
+Protensão Completa (CP nível 3) devem ser atendidas no caso de elementos com armadura pré-tracionada em ambientes de classe de agressividade ambiental (CAA) III e IV. Deve-se garantir duas condições:  
+
+<ol>
 <li>Em combinações frequentes de ações, previstas em projeto, deve-se ser respeitado o estado limite de descompressão (ELS-D), podendo ser substituído pelo ELS-DP com armadura passiva (ap) igual a 25 mm, ficando a critério do projetista.</li>
 <li>2º Em combinações raras de ações, também já previstas em projeto, deve-se ser respeitado o estado limite de formação de fissuras (ELS-F).</li>
-Protensão Limitada (CP nível 2) de forma análogo a protensão completa deve-se ser atendido em situações com elementos com armadura pré-tracionada em ambientes de CAA II ou com armaduras pós-tracionada em ambientes de CAA III e IV. Deve-se garantir duas condições sendo elas: 
-1º Em combinações quase-permanentes de ações, previstas em projeto, é respeitado o estado limite de descompressão (ELS-D), podendo ser substituído pelo ELS-DP com ap=25mm, ficando a critério do projetista. 
-2º Em combinações frequentes de ações, também já previstas em projeto, é respeitado o estado limite de formação de fissuras (ELS-F).
-Protensão parcial (CP nível 1) devem ser atendidas no caso de elementos com armadura pré tracionada em ambientes de CAA I ou com armadura pós-tracionada em ambientes de CAA I e II. Deve-se garantir apenas uma condição sendo ela: 
+</ol>
+
+Protensão Limitada (CP nível 2) de forma análogo a protensão completa deve-se ser atendido em situações com elementos com armadura pré-tracionada em ambientes de CAA II ou com armaduras pós-tracionada em ambientes de CAA III e IV. Deve-se garantir duas condições sendo elas:  
+
+<ol>
+<li>Em combinações quase-permanentes de ações, previstas em projeto, é respeitado o estado limite de descompressão (ELS-D), podendo ser substituído pelo ELS-DP com ap=25mm, ficando a critério do projetista.</li>  
+<li>Em combinações frequentes de ações, também já previstas em projeto, é respeitado o estado limite de formação de fissuras (ELS-F).</li>  
+
+Protensão parcial (CP nível 1) devem ser atendidas no caso de elementos com armadura pré tracionada em ambientes de CAA I ou com armadura pós-tracionada em ambientes de CAA I e II. Deve-se garantir apenas uma condição sendo ela:  
+
+<ul>	
 <li>Em combinações frequentes de ações, previstas no projeto, é respeitar o estado limite de abertura de fissura (ELS-W), com Wk ≤ 0,2 mm.</li>
+</ul>
 
+<h3>Referências</h3>
 
-
+<p align="justify">
+  ABNT - ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. <b>NBR 6118: Projeto de estruturas de concreto - Procedimento</b>. Rio de janeiro 2014.
+  Suspendisse in <i>libero risus</i>, in interdum massa.
+  HANAL, João Bento de. <b>Fundamentos do Concreto Protendido</b>. Universidade de São Paulo – Escola de Engenharia de São Carlos. São Carlos, 2005. Disponível em: < <a href="https://edisciplinas.usp.br/pluginfile.php/2255776/mod_resource/content/1/Fundamentos%20do%20Concreto%20Protendido%20-%20J%20B%20Hanai.pdf"target="_blank">sed</a>. Acesso em: 23 jun. 2022.
+ 
+</p>
 
 
 <h1>Codificação para títulos</h1>
