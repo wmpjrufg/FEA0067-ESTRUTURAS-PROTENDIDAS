@@ -4,7 +4,7 @@
 
 <h1>1.5 - Protensão quanto ao grau de protensão</h1>
 
-      O grau de protensão ou também chamadas de nível de protensão de acordo com as normas brasileiras, são os critérios de projeto empregados afim de determinar os efeitos que serão introduzidos pela protensão em um certo tipo de estrutura, com finalidade de alcançar e garantir que a peça atinja os requisitos e atenta a durabilidade quanto a fissuração e proteção da armadura.
+<p>O grau de protensão ou também chamadas de nível de protensão de acordo com as normas brasileiras, são os critérios de projeto empregados afim de determinar os efeitos que serão introduzidos pela protensão em um certo tipo de estrutura, com finalidade de alcançar e garantir que a peça atinja os requisitos e atenta a durabilidade quanto a fissuração e proteção da armadura.</p>
 
 
 A NBR 6118 define o concreto protendido em três níveis de protensão, sendo eles protensão completa, limitada e parcial. Os mesmos são definidos de acordo com a classe de agressividade ambiental assumida para a estrutura, com consonância as exigências relativas à fissuração e a combinações de ações de serviço. As tabelas 1 e 2, foram retiradas da norma e apresentam de forma resumida as exigências de durabilidade relacionadas à fissuração e à proteção da armadura em função das classes de agressividade ambiental.  
