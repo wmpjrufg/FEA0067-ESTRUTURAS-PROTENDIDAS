@@ -15,11 +15,11 @@ A NBR 6118 define o concreto protendido em três níveis de protensão, sendo el
     	 <th>Risco de deterioração da estrutura</th>  
   	</tr>  
   	<tr>  
-    	 <td rowspan"2">I</td>  
-    	 <td rowspan"2">Fraca</td>  
+    	 <th rowspan"2">I</th>  
+    	 <th rowspan"2">Fraca</th>  
     	 <td>Rural</td>  
     	 <td>Submersa</td>  
-    	 <td rowspan"2">Insignificante</td>  
+    	 <th rowspan"2">Insignificante</th>  
   	</tr>  
 	<tr>  
     	 <td>II</td>  
