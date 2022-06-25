@@ -18,7 +18,7 @@ A NBR 6118 define o concreto protendido em três níveis de protensão, sendo el
     	 <td rowspan="2">I</td>  
     	 <td rowspan="2">Fraca</td>  
     	 <td>Rural</td>   
-    	 <th rowspan="2">Insignificante</th>  
+    	 <td rowspan="2">Insignificante</td>  
   	</tr>  
 	<tr>  
     	 <td>Submersa</td> 
@@ -29,14 +29,22 @@ A NBR 6118 define o concreto protendido em três níveis de protensão, sendo el
     	 <td>Urbana<sup>1,2</sup></td>  
     	 <td>Pequeno</td>  
   	</tr>  
+	<tr>  
+    	 <td rowspan="2">III</td>  
+    	 <td rowspan="2">Forte</td>  
+    	 <td>Marinha<sup>1</sup></td>   
+    	 <td rowspan="2">Grande</td>  
+  	</tr>  
+	<tr>  
+    	 <td>Industrial<sup>1,2</sup></td> 
+  	</tr> 
 </table>
 
 
 			
 			
 			
-III	Forte	Marinha 1	Grande
-		Industrial 1,2	
+			
 IV	Muito forte	Industrial 1,3	Elevado
 		Respingos de maré	
 1. Pode-se admitir um microclima com uma classe de agressividade mais branda (um nível acima) para ambientes internos seco (sala, dormitórios, banheiros, cozinhas e áreas de serviço de apartamentos residenciais e conjuntos residenciais e conjuntos comerciais ou ambientes com concreto revestido com argamassa e pintura). 
