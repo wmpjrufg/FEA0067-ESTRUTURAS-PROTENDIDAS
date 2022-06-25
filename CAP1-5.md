@@ -3,6 +3,74 @@
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>  
 
+<h1>1.5 - Protensão quanto ao grau de protensão</h1>
+
+
+O grau de protensão ou também chamadas de nível de protensão de acordo com as normas brasileiras, são os critérios de projeto empregados afim de determinar os efeitos que serão introduzidos pela protensão em um certo tipo de estrutura, com finalidade de alcançar e garantir que a peça atinja os requisitos e atenta a durabilidade quanto a fissuração e proteção da armadura.
+
+
+A NBR 6118 define o concreto protendido em três níveis de protensão, sendo eles protensão completa, limitada e parcial. Os mesmos são definidos de acordo com a classe de agressividade ambiental assumida para a estrutura, com consonância as exigências relativas à fissuração e a combinações de ações de serviço. As tabelas 1 e 2, foram retiradas da norma e apresentam de forma resumida as exigências de durabilidade relacionadas à fissuração e à proteção da armadura em função das classes de agressividade ambiental.  
+	
+	
+	
+Tabela 1 – Classes de agressividade ambiental (Tabela 6.1 da NBR 6118)
+
+<table>  
+  	<tr>  
+   	 <th>Classe de agressividade ambiental (CAA)</th>  
+	 <th>Agressividade</th>  
+    	 <th>Classificação geral do tipo de ambiente para efeito de projeto</th>  
+    	 <th>Risco de deterioração da estrutura</th>  
+  	</tr>  
+  	<tr>  
+    	 <td rowspan="2">I</td>  
+    	 <td rowspan="2">Fraca</td>  
+    	 <td>Rural</td>   
+    	 <td rowspan="2">Insignificante</td>  
+  	</tr>  
+	<tr>  
+    	 <td>Submersa</td> 
+  	</tr> 
+	<tr>  
+    	 <td>II</td>  
+    	 <td>Moderada</td>  
+    	 <td>Urbana<sup>1,2</sup></td>  
+    	 <td>Pequeno</td>  
+  	</tr>  
+	<tr>  
+    	 <td rowspan="2">III</td>  
+    	 <td rowspan="2">Forte</td>  
+    	 <td>Marinha<sup>1</sup></td>   
+    	 <td rowspan="2">Grande</td>  
+  	</tr>  
+	<tr>  
+    	 <td>Industrial<sup>1,2</sup></td> 
+  	</tr> 
+	<tr>  
+    	 <td rowspan="2">IV</td>  
+    	 <td rowspan="2">Muito forte</td>  
+    	 <td>Industrial<sup>1,3</sup></td>   
+    	 <td rowspan="2">Elevado</td>  
+  	</tr>  
+	<tr>  
+    	 <td>Respingos de maré</td> 
+  	</tr>
+	<tfoot>
+	<tr>  
+    	 <td colspan="4"><sup>1.</sup>Pode-se admitir um microclima com uma classe de agressividade mais branda (um nível acima) para ambientes internos seco (sala, dormitórios, banheiros, cozinhas e áreas de serviço de apartamentos residenciais e conjuntos residenciais e conjuntos comerciais ou ambientes com concreto revestido com argamassa e pintura). </td>
+	</tr>
+    	 <td colspan="4"><sup>2.</sup>Pode-se admitir uma classe de agressividade mais branda (um nível acima) em: obras em regiões de clima seco, com umidade relativa do ar menor ou igual a 65%, partes da estrutura protegidas de chuva em ambientes predominantemente secos, ou regiões onde chove raramente.</td> 
+	</tr>
+    	 <td colspan="4"><sup>3.</sup>Ambientes quimicamente agressivos, tanques industriais, galvanoplastia, branqueamento em indústrias de celulose e papel, armazéns de fertilizantes, indústrias químicas.</td> 
+  	</tr>
+	</tfoot>
+</table>
+Fonte: Adapto NBR 6118, 2014.
+
+
+
+
+
 <h1>Codificação para títulos</h1>
 
 <h1>teste 1</h1>
