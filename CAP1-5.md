@@ -55,16 +55,17 @@ Tabela 1 – Classes de agressividade ambiental (Tabela 6.1 da NBR 6118)
 	<tr>  
     	 <td>Respingos de maré</td> 
   	</tr>
-
+        <tfoot>
 	<tr>  
-    	 <td colspan="4"><sup>1.</sup>Pode-se admitir um microclima com uma classe de agressividade mais branda (um nível acima) para ambientes internos seco (sala, dormitórios, banheiros, cozinhas e áreas de serviço de apartamentos residenciais e conjuntos residenciais e conjuntos comerciais ou ambientes com concreto revestido com argamassa e pintura). </td>
-	</tr>
-    	 <td colspan="4"><sup>2.</sup>Pode-se admitir uma classe de agressividade mais branda (um nível acima) em: obras em regiões de clima seco, com umidade relativa do ar menor ou igual a 65%, partes da estrutura protegidas de chuva em ambientes predominantemente secos, ou regiões onde chove raramente.</td> 
-	</tr>
-    	 <td colspan="4"><sup>3.</sup>Ambientes quimicamente agressivos, tanques industriais, galvanoplastia, branqueamento em indústrias de celulose e papel, armazéns de fertilizantes, indústrias químicas.</td> 
-  	</tr>
+    	 <td colspan="4"><sup>1.</sup>Pode-se admitir um microclima com uma classe de agressividade mais branda (um nível acima) para ambientes internos seco (sala, dormitórios, banheiros, cozinhas e áreas de serviço de apartamentos residenciais e conjuntos residenciais e conjuntos comerciais ou ambientes com concreto revestido com argamassa e pintura). </td>  
+	</tr>  
+    	 <td colspan="4"><sup>2.</sup>Pode-se admitir uma classe de agressividade mais branda (um nível acima) em: obras em regiões de clima seco, com umidade relativa do ar menor ou igual a 65%, partes da estrutura protegidas de chuva em ambientes predominantemente secos, ou regiões onde chove raramente.</td>  
+	</tr>  
+    	 <td colspan="4"><sup>3.</sup>Ambientes quimicamente agressivos, tanques industriais, galvanoplastia, branqueamento em indústrias de celulose e papel, armazéns de fertilizantes, indústrias químicas.</td>  
+  	</tr>  
+	</tfoot>  
+</table>  
 
-</table>
 Fonte: Adapto NBR 6118, 2014.
 
 
