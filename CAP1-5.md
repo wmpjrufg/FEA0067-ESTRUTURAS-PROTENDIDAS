@@ -90,7 +90,6 @@ Tabela 2 – Exigências de durabilidade relacionadas à fissuração e à prote
 </p>  
   
 <table>  
-
   	<tr>  
    	 <th>Tipo de concreto estrutural</th>  
 	 <th>Classe de agressividade ambiental (CAA) e tipo de proteção</th>  
