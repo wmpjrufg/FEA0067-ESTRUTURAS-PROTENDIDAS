@@ -138,7 +138,7 @@ Tabela 2 – Exigências de durabilidade relacionadas à fissuração e à prote
 	<tr>  
     	 <td colspan="4"><sup>1.</sup>A critério do projetista, o ELS-D pode ser substituído pelo ELS-DP com ap = 25mm (figura 3.1 da NBR 6118).</td>  
 	</tr>  
-    	 <td colspan="4">NOTAS:</td>  
+    	 <td colspan="4"><p align="center">NOTAS:</p></td>  
 	</tr>  
     	 <td colspan="4">1. As definições de ELS-W, ELS-F e ELS-D encontram-se no item 3.2 (da NBR6118).</td>  
   	</tr>  
