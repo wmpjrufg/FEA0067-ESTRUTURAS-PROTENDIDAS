@@ -8,7 +8,7 @@ O grau de protensão ou também chamadas de nível de protensão de acordo com a
 
 A NBR 6118 define o concreto protendido em três níveis de protensão, sendo eles protensão completa, limitada e parcial. Os mesmos são definidos de acordo com a classe de agressividade ambiental assumida para a estrutura, com consonância as exigências relativas à fissuração e a combinações de ações de serviço. As tabelas 1 e 2, foram retiradas da norma e apresentam de forma resumida as exigências de durabilidade relacionadas à fissuração e à proteção da armadura em função das classes de agressividade ambiental.  
 	
-<div style="text-align:center">Tabela 1 – Classes de agressividade ambiental (Tabela 6.1 da NBR 6118)
+<p style="text-align:center">Tabela 1 – Classes de agressividade ambiental (Tabela 6.1 da NBR 6118)</p>
 
 <table>  
   	<tr>  
