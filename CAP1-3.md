@@ -38,6 +38,18 @@ A NBR 6118 define o concreto protendido em três níveis de protensão, sendo el
 	<tr>  
     	 <td>Industrial<sup>1,2</sup></td> 
   	</tr> 
+	<tr>  
+    	 <td rowspan="2">IV</td>  
+    	 <td rowspan="2">Muito forte</td>  
+    	 <td>Industrial<sup>1,3</sup></td>   
+    	 <td rowspan="2">Elevado</td>  
+  	</tr>  
+	<tr>  
+    	 <td>Respingos de maré</td> 
+  	</tr> 
+	<tr>  
+    	 <td colspan="2">1. Pode-se admitir um microclima com uma classe de agressividade mais branda (um nível acima) para ambientes internos seco (sala, dormitórios, banheiros, cozinhas e áreas de serviço de apartamentos residenciais e conjuntos residenciais e conjuntos comerciais ou ambientes com concreto revestido com argamassa e pintura). </td> 
+  	</tr> 
 </table>
 
 
@@ -45,8 +57,8 @@ A NBR 6118 define o concreto protendido em três níveis de protensão, sendo el
 			
 			
 			
-IV	Muito forte	Industrial 1,3	Elevado
-		Respingos de maré	
+	
+			
 1. Pode-se admitir um microclima com uma classe de agressividade mais branda (um nível acima) para ambientes internos seco (sala, dormitórios, banheiros, cozinhas e áreas de serviço de apartamentos residenciais e conjuntos residenciais e conjuntos comerciais ou ambientes com concreto revestido com argamassa e pintura). 
 2. Pode-se admitir uma classe de agressividade mais branda (um nível acima) em: obras em regiões de clima seco, com umidade relativa do ar menor ou igual a 65%, partes da estrutura protegidas de chuva em ambientes predominantemente secos, ou regiões onde chove raramente. 
 3. Ambientes quimicamente agressivos, tanques industriais, galvanoplastia, branqueamento em indústrias de celulose e papel, armazéns de fertilizantes, indústrias químicas. 
