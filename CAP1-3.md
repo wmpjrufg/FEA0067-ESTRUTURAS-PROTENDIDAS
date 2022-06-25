@@ -8,27 +8,33 @@ O grau de protensão ou também chamadas de nível de protensão de acordo com a
 A NBR 6118 define o concreto protendido em três níveis de protensão, sendo eles protensão completa, limitada e parcial. Os mesmos são definidos de acordo com a classe de agressividade ambiental assumida para a estrutura, com consonância as exigências relativas à fissuração e a combinações de ações de serviço. As tabelas 1 e 2, foram retiradas da norma e apresentam de forma resumida as exigências de durabilidade relacionadas à fissuração e à proteção da armadura em função das classes de agressividade ambiental.  
 
 <table>
-	//título da tabela
-  		<tr>
-   			<th>Classe de agressividade ambiental (CAA)</th>
-			<th>Agressividade</th>
-    			<th>Classificação geral do tipo de ambiente para efeito de projeto</th>
-    			<th>Risco de deterioração da estrutura</th>
-  		</tr>
-	//linha 1
-  		<tr>
-    			<tdrowspan"2">I</td>
-    			<tdrowspan"2">Fraca</td>
-    			<td>Rural</td>
-    			<td>Submersa</td>
-    			<tdrowspan"2">Insignificante</td>
-  		</tr>
-	//linha 2
-  		<tr>
-    			<td>II</td>
-    			<td>Moderada</td>
-    			<td>Urbana<sup>1,2</sup></td>
-    			<td>Pequeno</td>
+	
+	<!--título da tabela-->
+	
+  	<tr>
+   		<th>Classe de agressividade ambiental (CAA)</th>
+		<th>Agressividade</th>
+    		<th>Classificação geral do tipo de ambiente para efeito de projeto</th>
+    		<th>Risco de deterioração da estrutura</th>
+  	</tr>
+	
+	<!--linha 1-->
+	
+  	<tr>
+    		<tdrowspan"2">I</td>
+    		<tdrowspan"2">Fraca</td>
+    		<td>Rural</td>
+    		<td>Submersa</td>
+    		<tdrowspan"2">Insignificante</td>
+  	</tr>
+	
+	<!--linha 2-->
+	
+  	<tr>
+    		<td>II</td>
+    		<td>Moderada</td>
+    		<td>Urbana<sup>1,2</sup></td>
+    		<td>Pequeno</td>
   		</tr>
 </table>
 
