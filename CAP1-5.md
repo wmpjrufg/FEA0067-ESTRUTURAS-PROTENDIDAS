@@ -85,6 +85,7 @@ Tabela 2 – Exigências de durabilidade relacionadas à fissuração e à prote
   
 
 <table>  
+	
   	<tr>  
    	 <th>Tipo de concreto estrutural</th>  
 	 <th>Classe de agressividade ambiental (CAA) e tipo de proteção</th>  
@@ -102,7 +103,7 @@ Tabela 2 – Exigências de durabilidade relacionadas à fissuração e à prote
 	 <td>CAAI</td>  
 	 <td>ELS-W wk ≤ 0,4 mm</td> 
 	 <td rowspan="3">Combinação frequente</td> 
-  	</tr> 
+  	</tr>  
 	<tr>  
     	 <td>CAA II e CAA III</td> 
 	 <td>ELS-W wk ≤ 0,3 mm</td> 
@@ -110,7 +111,7 @@ Tabela 2 – Exigências de durabilidade relacionadas à fissuração e à prote
 	<tr>  
     	 <td>CAA IV</td> 
 	 <td>ELS-W wk ≤ 0,2 mm</td> 
-  	</tr> 
+  	</tr>  
 	<tr>  
     	 <td>Concreto protendido nível 1 (protensão parcial)</td>  
     	 <td>Pré tração com CAA I ou Pós tração com CAA I e II</td>  
@@ -125,24 +126,24 @@ Tabela 2 – Exigências de durabilidade relacionadas à fissuração e à prote
 	<tr>  
     	 <td>ELS-F</td>
 	 <td>Combinação frequente</td>
-  	</tr> 
+  	</tr>  
 	<tr>  
     	 <td>ELS-D<sup>1</sup></td>
 	 <td>Combinação quase permanente</td>
-  	</tr> 
+  	</tr>  
 	<tr>  
     	 <td rowspan="3">Concreto protendido nível 3 (protensão completa)</td>  
     	 <td rowspan="3">Pré tração com CAA III e IV</td>  
     	 <td colspan="2">Verificar as duas abaixo</td>   
-  	</tr>  
+  	</tr>   
 	<tr>  
     	 <td>ELS-F</td>
 	 <td>Combinação rara</td>
-  	</tr> 
+  	</tr>  
 	<tr>  
     	 <td>ELS-D<sup>1</sup></td>
 	 <td>Combinação frequente</td>
-  	</tr> 
+  	</tr>  
 	
         <tfoot>
 	<tr>  
