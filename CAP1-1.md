@@ -87,7 +87,7 @@
 \end{Vmatrix}
 </p>
 
-<p>link de um site com várias modelos de equação <a href="https://app.mettzer.com/latex"target="_blank">link</a></p>
+<p>link de um site com várias modelos de equação <a href="https://app.mettzer.com/latex">link</a></p>
  
  
 
@@ -152,7 +152,7 @@
 <h3>Link de site em página nova</h3>
 
 
-<p align="justify"><a href="http://www.w3schools.com/"target="_blank">Visite as W3Schools!</a></p>
+<p align="justify"><a href="http://www.w3schools.com/">Visite as W3Schools!</a></p>
 
 <h2>Link de site em página nova no meio de um texto</h2>
 
@@ -160,6 +160,6 @@
   Integer elementum massa at nulla placerat varius.
   Suspendisse in <i>libero risus</i>, in interdum massa.
   Vestibulum ac leo <b>vitae metus faucibus</b> gravida ac in neque.
-  Nullam est eros, suscipit <a href="http://www.w3schools.com/"target="_blank">sed</a> dictum quis, accumsan a ligula.
+  Nullam est eros, suscipit <a href="http://www.w3schools.com/">sed</a> dictum quis, accumsan a ligula.
 </p>
 
