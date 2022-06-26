@@ -32,10 +32,12 @@
 
 
 
-<h1> Referencia </h1>
+<h3> Referencia </h3>
 
 <p>
-    frrdrdr </p> 
+  -ABNT - ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 6118: Concreto protendido. Fundamentos Basicos
+
+-VERISSIMO, Gustavo de souza. Fundamentos do Concreto Protendido. Universidade de Viçosa. Disponível em: <a href="https://edisciplinas.usp.br/pluginfile.php/2255776/mod_resource/content/1/Fundamentos%20do%20Concreto%20Protendido%20-%20J%20B%20Hanai.pdf">link</a>. Acesso em: 25 jun. 2022.</p> 
 
 <h1>Title 1</h1>
 <h2>Title 2</h2>
