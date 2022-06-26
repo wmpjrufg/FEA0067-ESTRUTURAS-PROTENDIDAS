@@ -4,6 +4,21 @@
 
 <h1> O que é concreto protendido?</h1>
 
+
+
+<br>
+
+<p>
+O concreto tem boa resistência à compressão e pequena resistência à tração. A resistência à tração, cerca de 10% da resistência à compressão, além de pequena é imprecisa, pois o material se comporta de maneira aleatória quando tracionado. Quando o concreto não é bem executado, a retração acentuada pode provocar fissuras na região tracionada da peça, eliminando completamente a resistência à tração, antes mesmo de atuar qualquer solicitação. Devido a essa natureza aleatória, a resistência à tração do concreto é geralmente desprezada nos cálculos.
+</p>
+
+<br>
+
+<p>
+O artifício da protensão consiste em introduzir esforços prévios na peça de concreto, que reduzam ou anulem as tensões de tração provocadas pelas solicitações em serviço. Nessas condições, a fissuração deixa de ser fator determinante no dimensionamento da peça.
+</p>
+
+
 <h1>Title 1</h1>
 <h2>Title 2</h2>
 <h3>Title 3</h3>
