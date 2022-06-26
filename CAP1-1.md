@@ -25,11 +25,10 @@
 
 
 <p>
-No que tange à durabilidade de estruturas de concreto armado, a conformidade do projeto está relacionada aos parâmetros considerados. De forma geral, a NBR 6118 – Estruturas de concreto armado – Procedimento (ABNT, 2014) estabelece, principalmente, os aspectos de qualidade do concreto. Os principais parâmetros da qualidade que devem ser considerados da durabilidade da estrutura durante a elaboração do projeto dizem respeito ao cobrimento das armaduras e à classe de resistência mecânica do concreto. Com relação à qualidade do concreto de cobrimento, a Norma Técnica NBR 6118 (ABNT, 2014) estabelece uma relação entre o ambiente de exposição do concreto e a sua qualidade, conforme apresentado na Tabela 1, na qual é possível observar a classe de agressividade, classificação geral do tipo de ambiente para efeito de projeto e o risco de deterioração da estrutura. </p> 
+    No que tange à durabilidade de estruturas de concreto armado, a conformidade do projeto está relacionada aos parâmetros considerados. De forma geral, a NBR 6118 – Estruturas de concreto armado – Procedimento (ABNT, 2014) estabelece, principalmente, os aspectos de qualidade do concreto. Os principais parâmetros da qualidade que devem ser considerados da durabilidade da estrutura durante a elaboração do projeto dizem respeito ao cobrimento das armaduras e à classe de resistência mecânica do concreto. Com relação à qualidade do concreto de cobrimento, a Norma Técnica NBR 6118 (ABNT, 2014) estabelece uma relação entre o ambiente de exposição do concreto e a sua qualidade, conforme apresentado na Tabela 1, na qual é possível observar a classe de agressividade, classificação geral do tipo de ambiente para efeito de projeto e o risco de deterioração da estrutura. </p> 
 
 <h1 align="center">Tabela 1</h1>
-<a href="https://imgur.com/a/7MJKI9u">tabela</a>
-
+<li> TABELA 1 <a href="https://imgur.com/a/mTjymLO">tabela</a></li>
 <h1>Title 1</h1>
 <h2>Title 2</h2>
 <h3>Title 3</h3>
