@@ -32,7 +32,7 @@
 
 
 
-<h3> Referencia </h3>
+<h3> Referencias </h3>
 
 <p>
 -ABNT - ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 6118: Concreto protendido. Fundamentos Basicos</p>
