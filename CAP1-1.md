@@ -147,7 +147,7 @@
   Nullam est eros, suscipit sed dictum quis, accumsan a ligula.
 </p>
 
-<h1>Link de site em página nova</h1>
+<h3>Link de site em página nova</h3>
 
 
 <p align="justify"><a href="http://www.w3schools.com/"target="_blank">Visite as W3Schools!</a></p>
