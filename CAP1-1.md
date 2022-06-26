@@ -18,10 +18,10 @@ O concreto tem boa resistência à compressão e pequena resistência à traçã
 O artifício da protensão consiste em introduzir esforços prévios na peça de concreto, que reduzam ou anulem as tensões de tração provocadas pelas solicitações em serviço. Nessas condições, a fissuração deixa de ser fator determinante no dimensionamento da peça.
 </p>
 
+<h1 align="center">EXEMPLO</h1>
 <li>Exemplo didatico </li><li> Exemplo <a href="https://imgur.com/a/7MJKI9u">FOTOS</a></li>
 
 <br>
-
 <p>
 O artifício da protensão consiste em introduzir esforços prévios na peça de concreto, que reduzam ou anulem as tensões de tração provocadas pelas solicitações em serviço. Nessas condições, a fissuração deixa de ser fator determinante no dimensionamento da peça.
 </p>
