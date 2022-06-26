@@ -19,7 +19,7 @@ O artifício da protensão consiste em introduzir esforços prévios na peça de
 </p>
 <p>exemplo didatico <br> <a href="https://imgur.com/a/shq4z3g"target="_blank">link da imagem</a></p>
 
-
+<li>&copy; copyright 2022. todos os direitos reservados</li><li>Design: <a href="https://instagram.com/engcivil.ufcat?igshid=YmMyMTA2M2Y=">teste</a></li>
 
 <h1>Title 1</h1>
 <h2>Title 2</h2>
