@@ -2,7 +2,7 @@
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>  
 
-<h1> O que é concreto protendido?</h1>
+<h1>O que é concreto protendido?</h1>
 
 
 
@@ -17,6 +17,8 @@ O concreto tem boa resistência à compressão e pequena resistência à traçã
 <p>
 O artifício da protensão consiste em introduzir esforços prévios na peça de concreto, que reduzam ou anulem as tensões de tração provocadas pelas solicitações em serviço. Nessas condições, a fissuração deixa de ser fator determinante no dimensionamento da peça.
 </p>
+<p>exemplo didatico <br> <a href="https://imgur.com/a/shq4z3g"target="_blank">link da imagem</a></p>
+
 
 
 <h1>Title 1</h1>
