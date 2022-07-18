@@ -29,5 +29,9 @@
     <td>Estruturas mais esbeltas</td>
     <td>Maior domínio da técnica, onde é preciso projetista estrutural com experiència em concreto protendido e empresa especializada em serviços de protenção</td>
   </tr>
+    <tr align="center">
+    <td>Redução da quantidade de vigas</td>
+    <td>Maior domínio da técnica, onde é preciso projetista estrutural com experiència em concreto protendido e empresa especializada em serviços de protenção</td>
+  </tr>
 </table>
  
