@@ -19,4 +19,15 @@
 <li>Requer a utlização obrigatoria de equipamentos e acessórios de protensão com alto controle tecnológico</li>
 <li>Necessita de uma compatilização de instalação hidrossanitária e elétrica com a estrutura, para previnir perfurações futuras nas cordoalhas</li>
 </ul>
+
+<table>
+  <tr>
+    <th>Vantagens</th>
+    <th>Desvantagens</th>
+  </tr>
+  <tr>
+    <td>Estruturas mais esbeltas</td>
+    <td>Maior domínio da técnica, onde é preciso projetista estrutural com experiència em concreto protendido e empresa especializada em serviços de protenção</td>
+  </tr>
+</table>
  
