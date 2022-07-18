@@ -8,7 +8,14 @@
 
 <h3>Vantagens</h3>
 <h2>O Concreto protendido é utilizado com o principal objetivo de elevar a resistência da Estrutura, assim permitindo, as seguintes vatage:</h2>
-
+<ul>
+<li>Estruturas mais esbeltas</li>
+<li>Redução da quantidade de vigas</li>
+<li>Redução no consumo de aço</li>
+<li>Redução de material para elaboração de formas</li>
+<li>Maior flexibilidade do Layout Arquitetônico</li>
+ <li> </li>
+</ul>
 
 
 <p>
