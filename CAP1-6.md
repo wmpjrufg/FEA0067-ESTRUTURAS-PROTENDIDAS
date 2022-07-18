@@ -30,4 +30,10 @@
 <li>Requer bastante supervão durante todas as fases da construção</li>
 </ul>
 
- 
+<h3>Referências</h3>
+
+<p>PEREIRA, C. Concreto Protendido: O que é, como é feito, vantagens e desvantagens. Disponível em: <https://www.escolaengenharia.com.br/concreto-protendido/#:~:text=%C3%A9%20concreto%20protendido%3F-,O%20concreto%20protendido%20%C3%A9%20o%20meio%20mais%20utilizado%20para%20aumentar,de%20tra%C3%A7%C3%A3o%20para%20a%20armadura.>. Acesso em: 18 jul. 2022.
+‌</p>
+ <p>FORUM DA CONSTRUÇÃO. As vantagens e desvantagens do concreto protendido. Disponível em: <http://www.forumdaconstrucao.com.br/conteudo.php?a=31&Cod=2035#:~:text=Concreto%20protendido%20apresenta%20as%20seguintes%20vantagens%3A&text=%2D%20Como%20o%20concreto%20n%C3%A3o%20fissura,choque%2C%20a%20vibra%C3%A7%C3%A3o%20e%20choque.>. Acesso em: 18 jul. 2022.
+
+‌</P>
