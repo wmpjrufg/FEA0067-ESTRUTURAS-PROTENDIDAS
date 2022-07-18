@@ -2,7 +2,7 @@
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>  
 <h3>Comparação do Concreto Armado e Protendido</h3>
-<h4>O Concreto protendido é o metodo mais recomendado é utilizado para aumentar a ressitência à tração do concreto. Este método construtivo tem como obejtivo melhorar o desempenho das estruturas utilizando todo o potencial do concreto a compressão, assim deixando os esforços de tração para a armadura</h4>
+<h4><p>O Concreto protendido é o metodo mais recomendado é utilizado para aumentar a ressitência à tração do concreto. Este método construtivo tem como obejtivo melhorar o desempenho das estruturas utilizando todo o potencial do concreto a compressão, assim deixando os esforços de tração para a armadura</p></h4>
 <h3>Vantagens</h3>
 <ul>
 <li>Estruturas mais esbeltas</li>
