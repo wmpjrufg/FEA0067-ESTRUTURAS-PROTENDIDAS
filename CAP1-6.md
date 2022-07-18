@@ -7,9 +7,9 @@
 
 
 <h3>Vantagens</h3>
-<h2>Redução das tensões de tração provacos pela flexão e pelos esforços cortantes</h2>
+<h2>O Concreto protendido é utilizado com o principal objetivo de elevar a resistência da Estrutura, assim permitindo, as seguintes vatage:</h2>
 
-<h1>Lucas</h1>
+
 
 <p>
 \begin{align}
