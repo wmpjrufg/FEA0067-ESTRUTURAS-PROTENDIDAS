@@ -1,7 +1,7 @@
 
 <h1>Definições normativas de protensão quanto ao nível de aderência</h1>
 
-De acordo com a NBR 6118, existem 3 tipos de definicção de protensão quanto ao nível de aderência do concreto. Essas se dividem nos itens 3.1.7, 3.1.8 e 3.1.9 da norma citada. 
+De acordo com a NBR 6118, existem 3 tipos de definição de protensão quanto ao nível de aderência do concreto. Essas se dividem nos itens 3.1.7, 3.1.8 e 3.1.9 da norma citada. 
 
 
 Item 3.1.7 - Concreto com armadura ativa pré-tracionada (protensão com aderência inicial): Concreto protendido em que o pré-alongamento da armadura ativa é feito utilizando-se apoios independentes do elemento estrutural, antes do lançamento do concreto, sendo a ligação da armadura de protensão com os referidos apoios desfeita após o endurecimento do concreto; a ancoragem no concreto realiza-se só por aderência. 
