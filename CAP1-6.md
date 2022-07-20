@@ -9,7 +9,7 @@
 <li>Redução da quantidade de vigas</li>
 <li>Redução no consumo de aço, em função da utilização da seção transversal plena e por serem utilizados aço e concreto de maior resistência</li>
 <li>Redução de material para elaboração de formas</li>
-<li>Maior flexibilidade do Layout Arquitetônico</li>
+<li>Maior flexibilidade</li>
 <li>Redução do pé-direito do subsolo e, consequentimente, redução de escavação e de contenção</li>
 <li>Maior impermeabilidade e durabilidade da estrutura pelo contorle de fissuração, além de uma maior capacidade da estrutura para suportar as cargas móveis, o choque  e  vibrações</li>
 <li>Possibilita aumento do vão, devido a laje de concreto protendido conseguir vencer maiores vãos que seria inviavel para o concreto aramdo</li>
