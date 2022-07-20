@@ -1,7 +1,3 @@
-<h1>Cabeçalho padrão nunca eliminar</h1>
-<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
-<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>  
-
 
 <h1>Definições normativas de protensão quanto ao nível de aderência</h1>
 
