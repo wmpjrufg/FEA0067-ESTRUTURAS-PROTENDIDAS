@@ -1,38 +1,26 @@
-<h1>Cabeçalho padrão nunca eliminar</h1>
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>  
 
 <h1>O que é concreto protendido?</h1>
 
-
-
-<br>
-
-<p>
-    O concreto tem boa resistência à compressão e pequena resistência à tração. A resistência à tração, cerca de 10% da resistência à compressão, além de pequena é imprecisa, pois o material se comporta de maneira aleatória quando tracionado. Quando o concreto não é bem executado, a retração acentuada pode provocar fissuras na região tracionada da peça, eliminando completamente a resistência à tração, antes mesmo de atuar qualquer solicitação. Devido a essa natureza aleatória, a resistência à tração do concreto é geralmente desprezada nos cálculos.
+<p align="justify">
+O concreto protendido é caracterizado como uma das variações da concreto armado sendo que o artifício da protensão consiste em introduzir esforços prévios na armadura, de forma a melhorar o seu desempenho em projeto. Um exemplo de melhoria de desempenho seria a redução do panorama de fissuração da peça de concreto. A Figura 1 apresenta um exemplo didático do uso da protensão em vigas de concreto.
 </p>
-
 <br>
-
-<p>
-    O artifício da protensão consiste em introduzir esforços prévios na peça de concreto, que reduzam ou anulem as tensões de tração provocadas pelas solicitações em serviço. Nessas condições, a fissuração deixa de ser fator determinante no dimensionamento da peça.
-</p>
-
-<h1 align="center">EXEMPLO</h1>
-
-<li>Exemplo didatico </li><li> Exemplo <a href="https://imgur.com/a/7MJKI9u">FOTOS</a></li>
 <br>
+<img src=\"https://www.engenheirodoaco.com.br/wp-content/uploads/2018/03/post-protens%C3%A3o-1.png" width=\"150px\" alt=\"Exemplo do concreto protendido\"/>
+<br>
+<br>
+<p align="justify">
+É possível observar que os esforços prévios introduzidos na armadura de aço criarão também um estado prévio de deformação no concreto, permitindo com que a peça tenha uma ganho de resistência por exemplo quando comparada a uma peça de concreto armado.
+</p> 
+<br>
+<br>
+<p align="justify">
+sobre o aspecto da durabilidade do material o concreto protendido deverá seguir as prescrições estabelecidas na NBR 6118 (2014). Estes critérios devrão estar correlacionados com a classe de agressividade ambiental como é no concreto armado. Porém na peça protendida os valores de classe de agressividade devem ser associados ao grau de protensão imposto no projeto. Portanto deve-se ficar atento as Tabelas xx1 e xx2 da NBR 6118 (2014) que especificaão estas questões.
+</p> 
 
-
-<p>
-    No que tange à durabilidade de estruturas de concreto armado, a conformidade do projeto está relacionada aos parâmetros considerados. De forma geral, a NBR 6118 – Estruturas de concreto armado – Procedimento (ABNT, 2014) estabelece, principalmente, os aspectos de qualidade do concreto. Os principais parâmetros da qualidade que devem ser considerados da durabilidade da estrutura durante a elaboração do projeto dizem respeito ao cobrimento das armaduras e à classe de resistência mecânica do concreto. Com relação à qualidade do concreto de cobrimento, a Norma Técnica NBR 6118 (ABNT, 2014) estabelece uma relação entre o ambiente de exposição do concreto e a sua qualidade, conforme apresentado na Tabela 1, na qual é possível observar a classe de agressividade, classificação geral do tipo de ambiente para efeito de projeto e o risco de deterioração da estrutura. </p> 
-
-<h1 align="center">Tabela 1</h1>
-<li> TABELA 1 <a href="https://imgur.com/a/mTjymLO">tabela</a></li>
-
-
-
-<h3> Referencias </h3>
+<h3>Referencias</h3>
 
 <p>
 -ABNT - ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 6118: Concreto protendido. Fundamentos Basicos</p>
