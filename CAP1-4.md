@@ -1,7 +1,7 @@
 <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>  
 
-<h1>Protensão quanto ao tipo de aderência/h1>
+<h1>Protensão quanto ao tipo de aderência</h1>
  
 <p align="justify">
 De acordo com a NBR 6118 (2014), existem 3 tipos de definição de protensão quanto ao nível de aderência do concreto. Essas se dividem nos itens 3.1.7, 3.1.8 e 3.1.9 da referida norma. Os sistemas podem ser descritos da seguinte forma:
