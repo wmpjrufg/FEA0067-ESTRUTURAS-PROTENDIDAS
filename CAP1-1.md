@@ -8,7 +8,7 @@ O concreto protendido é caracterizado como uma das variações da concreto arma
 </p>
 <br>
 <br>
-<img src="https://www.engenheirodoaco.com.br/wp-content/uploads/2018/03/post-protens%C3%A3o-1.png" width="150px" alt="Exemplo do concreto protendido"/>
+<img src="https://www.engenheirodoaco.com.br/wp-content/uploads/2018/03/post-protens%C3%A3o-1.png" width="100%" alt="Exemplo do concreto protendido">
 <br>
 <br>
 <p align="justify">
