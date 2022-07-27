@@ -10,9 +10,7 @@
 <h3><i>Turmas</i></h3>   
 No [link](https://github.com/wmpjrufg/FEA0067-ESTRUTURAS-PROTENDIDAS/blob/gh-pages/TURMAS.md) é possível verificar as turmas que já contribuíram com a construção deste material.
 
-
-_**Índice**_  
-0.0 - [Como fica o exemplo guia](https://wmpjrufg.github.io/FEA0067-ESTRUTURAS-PROTENDIDAS/EXEMPLO_GUIA.html)   
+<h1><i>Índice</i></h1>   
 1.0 - Introdução as peças protendidas  
 1.1 - [O que é concreto protendido?](https://wmpjrufg.github.io/FEA0067-ESTRUTURAS-PROTENDIDAS/CAP1-1.html)  
 1.2 - [Histórico do concreto protendido](https://wmpjrufg.github.io/FEA0067-ESTRUTURAS-PROTENDIDAS/CAP1-2.html)  
