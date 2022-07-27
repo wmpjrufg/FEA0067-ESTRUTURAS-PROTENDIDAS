@@ -2,9 +2,6 @@
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>  
 
 <h1>1.5 - Protensão quanto ao grau de protensão</h1>
-
-<h2>Grau de protensão</h2>
-
 <br>
 
 <p>
