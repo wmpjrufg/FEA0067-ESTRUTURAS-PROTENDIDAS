@@ -17,7 +17,7 @@ O concreto protendido é caracterizado como uma das variações da concreto arma
 <br>
 <br>
 <p align="justify">
-sobre o aspecto da durabilidade do material o concreto protendido deverá seguir as prescrições estabelecidas na NBR 6118 (2014). Estes critérios devrão estar correlacionados com a classe de agressividade ambiental como é no concreto armado. Porém na peça protendida os valores de classe de agressividade devem ser associados ao grau de protensão imposto no projeto. Portanto deve-se ficar atento as Tabelas xx1 e xx2 da NBR 6118 (2014) que especificaão estas questões.
+Sobre o aspecto da durabilidade do material o concreto protendido deverá seguir as prescrições estabelecidas na NBR 6118 (2014). Estes critérios devrão estar correlacionados com a classe de agressividade ambiental como é no concreto armado. Porém na peça protendida os valores de classe de agressividade devem ser associados ao grau de protensão imposto no projeto. Portanto deve-se ficar atento as Tabelas xx1 e xx2 da NBR 6118 (2014) que especificaão estas questões.
 </p> 
 
 <h3>Referencias</h3>
