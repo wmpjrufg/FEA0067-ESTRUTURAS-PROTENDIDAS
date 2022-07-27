@@ -1,6 +1,6 @@
 <h1>Seja bem vindo ao REA de concreto protendido</h1>
 
-<p align="justify">Este material é um repositório educacional aberto criado pelos discentes da discipliande Estruturas protendidas da Universidade Federal de Catalão (UFCAT).</p>
+<p align="justify">Este material é um repositório educacional aberto criado pelos discentes da disciplia de Estruturas Protendidas da Universidade Federal de Catalão (UFCAT).</p>
 
 <h1>Desenvolvedores</h1>
 
