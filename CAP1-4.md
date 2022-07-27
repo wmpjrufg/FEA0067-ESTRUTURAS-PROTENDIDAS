@@ -22,3 +22,11 @@ De acordo com a NBR 6118 (2014), existem 3 tipos de definição de protensão qu
     janela.
   </dd>
 </dl>
+
+<h3>Referencias</h3>
+
+<p>
+-ABNT - ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. NBR 6118: Concreto protendido. Fundamentos Basicos</p>
+
+<p> -VERISSIMO, Gustavo de souza. Fundamentos do Concreto Protendido. Universidade de Viçosa. Disponível em: <a href="https://edisciplinas.usp.br/pluginfile.php/2255776/mod_resource/content/1/Fundamentos%20do%20Concreto%20Protendido%20-%20J%20B%20Hanai.pdf">link</a>. Acesso em: 25 jun. 2022.</p> 
+
