@@ -9,26 +9,17 @@ De acordo com a NBR 6118 (2014), existem 3 tipos de definição de protensão qu
 <br>
 
 <dl>
-  <dt>protensão com aderência inicial</dt>
+  <dt>Concreto com armadura ativa pré-tracionada (protensão com aderência inicial)</dt>
   <dd align="justify">
-     Concreto protendido em que o pré-alongamento da armadura ativa é feito utilizando-se apoios independentes do elemento estrutural, antes do lançamento do concreto,      sendo a ligação da armadura de protensão com os referidos apoios desfeita após o endurecimento do concreto; a ancoragem no concreto realiza-se só por aderência
+      Concreto protendido em que o pré-alongamento da armadura ativa é feito utilizando-se apoios independentes do elemento estrutural, antes do lançamento do concreto, sendo a ligação da armadura de protensão com os referidos apoios desfeita após o endurecimento do concreto; a ancoragem no concreto realiza-se só por aderência
   </dd>
-  <dt>Navegador</dt>
-  <dd>
-    Navegador é o software que requisita um documento HTML
-    através do protocolo HTTP e exibe seu conteúdo em uma
+  <dt>Concreto com armadura ativa pós-tracionada sem aderência (protensão sem aderência)</dt>
+  <dd align="justify">
+      Concreto protendido em que o pré-alongamento da armadura ativa é realizado após o endurecimento do concreto, sendo utilizadas, como apoios, partes do próprio elemento estrutural, criando posteriormente aderência com o concreto de modo permanente, através da injeção das bainhas.
+  </dd>
+  <dt>Concreto com armadura ativa pós-tracionada sem aderência (protensão sem aderência)</dt>
+  <dd align="justify">
+      Concreto protendido em que o pré-alongamento da armadura ativa é realizado após o endurecimento do concreto, sendo utilizados, como apoios, partes do próprio elemento estrutural, mas não sendo criada aderência com o concreto, ficando a armadura ligada ao concreto apenas em pontos localizados.
     janela.
   </dd>
 </dl>
-
-
-Item 3.1.7 - Concreto com armadura ativa pré-tracionada (protensão com aderência inicial): . 
-
-Item 3.1.8 - Concreto com armadura ativa pós-tracionada (protensão com aderência posterior): Concreto protendido em que o pré-alongamento da armadura ativa é realizado após o endurecimento do concreto, sendo utilizadas, como apoios, partes do próprio elemento estrutural, criando posteriormente aderência com o concreto de modo permanente, através da injeção das bainhas.
-
-Item 3.1.9 - Concreto com armadura ativa pós-tracionada sem aderência (protensão sem aderência): Concreto protendido em que o pré-alongamento da armadura ativa é realizado após o endurecimento do concreto, sendo utilizados, como apoios, partes do próprio elemento estrutural, mas não sendo criada aderência com o concreto, ficando a armadura ligada ao concreto apenas em pontos localizados.
-
-Assista o vídeo do link abaixo, onde explica de forma mais prática e objetiva acerca do tema:
-
- https://www.youtube.com/embed/N-_jIpGdyEg 
-
