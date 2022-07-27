@@ -7,14 +7,11 @@
 O concreto protendido é caracterizado como uma das variações da concreto armado sendo que o artifício da protensão consiste em introduzir esforços prévios na armadura, de forma a melhorar o seu desempenho em projeto. Um exemplo de melhoria de desempenho seria a redução do panorama de fissuração da peça de concreto. A Figura 1 apresenta um exemplo didático do uso da protensão em vigas de concreto.
 </p>
 <br>
-<br>
 <center><img src="https://www.engenheirodoaco.com.br/wp-content/uploads/2018/03/post-protens%C3%A3o-1.png" width="70%" alt="Exemplo do concreto protendido"></center>
-<br>
 <br>
 <p align="justify">
 É possível observar que os esforços prévios introduzidos na armadura de aço criarão também um estado prévio de deformação no concreto, permitindo com que a peça tenha uma ganho de resistência por exemplo quando comparada a uma peça de concreto armado.
 </p> 
-<br>
 <br>
 <p align="justify">
 Sobre o aspecto da durabilidade do material o concreto protendido deverá seguir as prescrições estabelecidas na NBR 6118 (2014). Estes critérios devrão estar correlacionados com a classe de agressividade ambiental como é no concreto armado. Porém na peça protendida os valores de classe de agressividade devem ser associados ao grau de protensão imposto no projeto. Portanto deve-se ficar atento as Tabelas xx1 e xx2 da NBR 6118 (2014) que especificaão estas questões.
