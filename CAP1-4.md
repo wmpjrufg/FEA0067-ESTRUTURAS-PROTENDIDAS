@@ -7,11 +7,11 @@
 De acordo com a NBR 6118 (2014), existem 3 tipos de definição de protensão quanto ao nível de aderência do concreto. Essas se dividem nos itens 3.1.7, 3.1.8 e 3.1.9 da referida norma. Os sistemas podem ser descritos da seguinte forma:
 </p>
 <br>
+
 <dl>
-  <dt>HTML</dt>
-  <dd>
-    HTML é a linguagem de marcação de textos utilizada
-    para exibir textos como páginas na Internet.
+  <dt>protensão com aderência inicial</dt>
+  <dd align="justify">
+     Concreto protendido em que o pré-alongamento da armadura ativa é feito utilizando-se apoios independentes do elemento estrutural, antes do lançamento do concreto,      sendo a ligação da armadura de protensão com os referidos apoios desfeita após o endurecimento do concreto; a ancoragem no concreto realiza-se só por aderência
   </dd>
   <dt>Navegador</dt>
   <dd>
@@ -22,7 +22,7 @@ De acordo com a NBR 6118 (2014), existem 3 tipos de definição de protensão qu
 </dl>
 
 
-Item 3.1.7 - Concreto com armadura ativa pré-tracionada (protensão com aderência inicial): Concreto protendido em que o pré-alongamento da armadura ativa é feito utilizando-se apoios independentes do elemento estrutural, antes do lançamento do concreto, sendo a ligação da armadura de protensão com os referidos apoios desfeita após o endurecimento do concreto; a ancoragem no concreto realiza-se só por aderência. 
+Item 3.1.7 - Concreto com armadura ativa pré-tracionada (protensão com aderência inicial): . 
 
 Item 3.1.8 - Concreto com armadura ativa pós-tracionada (protensão com aderência posterior): Concreto protendido em que o pré-alongamento da armadura ativa é realizado após o endurecimento do concreto, sendo utilizadas, como apoios, partes do próprio elemento estrutural, criando posteriormente aderência com o concreto de modo permanente, através da injeção das bainhas.
 
